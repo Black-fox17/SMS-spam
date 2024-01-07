@@ -18,7 +18,7 @@ To replicate the results and explore the implementation, follow these steps:
 
 ### Clone the repository:
 
-`git clone https://github.com/yourusername/sms-classification.git`
+`https://github.com/Black-fox17/SMS-spam.git`
 ### Install the required dependencies:
 
 `pip install -r requirements.txt`
