@@ -18,7 +18,7 @@ To replicate the results and explore the implementation, follow these steps:
 
 ### Clone the repository:
 
-`https://github.com/Black-fox17/SMS-spam.git`
+`git clone https://github.com/Black-fox17/SMS-spam.git`
 ### Install the required dependencies:
 
 `pip install -r requirements.txt`
